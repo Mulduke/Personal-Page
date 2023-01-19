@@ -1,0 +1,12 @@
+#title  {
+    color: white;
+    background-color:red;
+    text-align: center;
+    width: auto;
+}
+.container {
+        display: grid;
+        grid-template-rows: repeat(2, 1fr);
+        grid-template-columns: repeat(2, 1fr);
+      }
+      
